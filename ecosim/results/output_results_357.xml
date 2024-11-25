@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecosim type="savefile" version="2.1.7">
+  <criterion value="2"/>
+  <phylogeny size="62" length="334240">
+    <outgroup value="NZ_CP034943.1"/>
+    <tree value="(NZ_CP034943.1:0.12988,((((Prokka_on_data_32__gff:0.00000,Prokka_on_data_33__gff:0.00000):0.00000,Prokka_on_data_34__gff:0.00000):0.00129,(((Prokka_on_data_54__gff:0.00000,Prokka_on_data_82__gff:0.00000):0.00000,(Prokka_on_data_61__gff:0.00000,Prokka_on_data_55__gff:0.00000):0.00000):0.00000,Prokka_on_data_75__gff:0.00000):0.00129):0.01007,((Prokka_on_data_89__gff:0.00755,(Prokka_on_data_72__gff:0.00166,(Prokka_on_data_40__gff:0.00003,(Prokka_on_data_39__gff:0.00000,Prokka_on_data_59__gff:0.00000):0.00002):0.00161):0.00749):0.00300,((Prokka_on_data_43__gff:0.00000,(Prokka_on_data_41__gff:0.00018,Prokka_on_data_44__gff:0.00056):0.00000):0.00138,(((((Prokka_on_data_45__gff:0.00000,Prokka_on_data_46__gff:0.00000):0.00029,(((Prokka_on_data_52__gff:0.00002,Prokka_on_data_76__gff:0.00000):0.00001,(Prokka_on_data_62__gff:0.00000,(Prokka_on_data_63__gff:0.00000,Prokka_on_data_64__gff:0.00010):0.00000):0.00000):0.00028,(Prokka_on_data_56__gff:0.00819,(Prokka_on_data_80__gff:0.00024,(Prokka_on_data_90__gff:0.00029,(Prokka_on_data_81__gff:0.00000,Prokka_on_data_91__gff:0.00000):0.00000):0.00016):0.00036):0.00016):0.00020):0.00005,(Prokka_on_data_60__gff:0.00032,(Prokka_on_data_73__gff:0.00000,(Prokka_on_data_65__gff:0.00000,Prokka_on_data_42__gff:0.00000):0.00000):0.00037):0.00013):0.00017,Prokka_on_data_57__gff:0.00035):0.00011,(((Prokka_on_data_87__gff:0.00011,(Prokka_on_data_31__gff:0.00000,(Prokka_on_data_37__gff:0.00000,(Prokka_on_data_38__gff:0.00000,(Prokka_on_data_53__gff:0.00000,(Prokka_on_data_85__gff:0.00000,(Prokka_on_data_86__gff:0.00000,Prokka_on_data_88__gff:0.00000):0.00000):0.00000):0.00000):0.00000):0.00000):0.00000):0.00012,((Prokka_on_data_79__gff:0.00000,(Prokka_on_data_78__gff:0.00000,Prokka_on_data_83__gff:0.00000):0.00000):0.00022,(Prokka_on_data_66__gff:0.00001,(Prokka_on_data_71__gff:0.00000,(Prokka_on_data_67__gff:0.00000,(Prokka_on_data_68__gff:0.00000,(Prokka_on_data_69__gff:0.00000,(Prokka_on_data_70__gff:0.00000,Prokka_on_data_74__gff:0.00000):0.00000):0.00000):0.00000):0.00000):0.00000):0.00039):0.00005):0.00004,(Prokka_on_data_84__gff:0.00087,((Prokka_on_data_36__gff:0.00000,(Prokka_on_data_47__gff:0.00000,(Prokka_on_data_49__gff:0.00000,(Prokka_on_data_51__gff:0.00000,(Prokka_on_data_58__gff:0.00000,Prokka_on_data_77__gff:0.00000):0.00000):0.00000):0.00000):0.00000):0.00000,((Prokka_on_data_48__gff:0.00000,Prokka_on_data_50__gff:0.00000):0.00000,Prokka_on_data_35__gff:0.00000):0.00000):0.00000):0.00016):0.00029):0.00117):0.00575):0.01082):0.38963):0.00000;"/>
+  </phylogeny>
+  <binning>
+    <bins size="42">
+      <bin crit="0.800000" value="1"/>
+      <bin crit="0.810000" value="1"/>
+      <bin crit="0.820000" value="1"/>
+      <bin crit="0.830000" value="1"/>
+      <bin crit="0.840000" value="1"/>
+      <bin crit="0.850000" value="1"/>
+      <bin crit="0.860000" value="1"/>
+      <bin crit="0.870000" value="1"/>
+      <bin crit="0.880000" value="1"/>
+      <bin crit="0.890000" value="1"/>
+      <bin crit="0.900000" value="1"/>
+      <bin crit="0.910000" value="1"/>
+      <bin crit="0.920000" value="1"/>
+      <bin crit="0.930000" value="1"/>
+      <bin crit="0.940000" value="1"/>
+      <bin crit="0.950000" value="1"/>
+      <bin crit="0.955000" value="1"/>
+      <bin crit="0.960000" value="1"/>
+      <bin crit="0.965000" value="2"/>
+      <bin crit="0.970000" value="2"/>
+      <bin crit="0.975000" value="3"/>
+      <bin crit="0.980000" value="3"/>
+      <bin crit="0.981000" value="3"/>
+      <bin crit="0.982000" value="3"/>
+      <bin crit="0.983000" value="3"/>
+      <bin crit="0.984000" value="4"/>
+      <bin crit="0.985000" value="4"/>
+      <bin crit="0.986000" value="4"/>
+      <bin crit="0.987000" value="4"/>
+      <bin crit="0.988000" value="4"/>
+      <bin crit="0.989000" value="5"/>
+      <bin crit="0.990000" value="6"/>
+      <bin crit="0.991000" value="8"/>
+      <bin crit="0.992000" value="11"/>
+      <bin crit="0.993000" value="11"/>
+      <bin crit="0.994000" value="11"/>
+      <bin crit="0.995000" value="11"/>
+      <bin crit="0.996000" value="11"/>
+      <bin crit="0.997000" value="12"/>
+      <bin crit="0.998000" value="13"/>
+      <bin crit="0.999000" value="14"/>
+      <bin crit="1.000000" value="61"/>
+    </bins>
+  </binning>
+  <estimate>
+    <result npop="4" omega="0.00014" sigma="0.00059"/>
+    <omega slope="-0.00014" intercept="2.60258"/>
+    <sigma slope="-0.00059" intercept="4.60029"/>
+  </estimate>
+  <hillclimb>
+    <result npop="5" omega="0.00009" sigma="0.00093" likelihood="0.0079000"/>
+  </hillclimb>
+  <npopCI>
+    <lower value="2" likelihood="0.0010000"/>
+    <upper value="5" likelihood="0.0079000"/>
+  </npopCI>
+  <omegaCI>
+    <lower value="0.00009" likelihood="0.0079000"/>
+    <upper value="0.00009" likelihood="0.0079000"/>
+  </omegaCI>
+  <sigmaCI>
+    <lower value="0.00003" likelihood="0.0030000"/>
+    <upper value="0.00093" likelihood="0.0079000"/>
+  </sigmaCI>
+  <demarcation>
+    <method value="monophyly"/>
+    <paintmethod value="bars"/>
+    <ecotypes size="5">
+      <ecotype number="1" size="8">
+        <member name="Prokka_on_data_32__gff"/>
+        <member name="Prokka_on_data_33__gff"/>
+        <member name="Prokka_on_data_34__gff"/>
+        <member name="Prokka_on_data_54__gff"/>
+        <member name="Prokka_on_data_82__gff"/>
+        <member name="Prokka_on_data_61__gff"/>
+        <member name="Prokka_on_data_55__gff"/>
+        <member name="Prokka_on_data_75__gff"/>
+      </ecotype>
+      <ecotype number="2" size="5">
+        <member name="Prokka_on_data_89__gff"/>
+        <member name="Prokka_on_data_72__gff"/>
+        <member name="Prokka_on_data_40__gff"/>
+        <member name="Prokka_on_data_39__gff"/>
+        <member name="Prokka_on_data_59__gff"/>
+      </ecotype>
+      <ecotype number="3" size="3">
+        <member name="Prokka_on_data_43__gff"/>
+        <member name="Prokka_on_data_41__gff"/>
+        <member name="Prokka_on_data_44__gff"/>
+      </ecotype>
+      <ecotype number="4" size="17">
+        <member name="Prokka_on_data_45__gff"/>
+        <member name="Prokka_on_data_46__gff"/>
+        <member name="Prokka_on_data_52__gff"/>
+        <member name="Prokka_on_data_76__gff"/>
+        <member name="Prokka_on_data_62__gff"/>
+        <member name="Prokka_on_data_63__gff"/>
+        <member name="Prokka_on_data_64__gff"/>
+        <member name="Prokka_on_data_56__gff"/>
+        <member name="Prokka_on_data_80__gff"/>
+        <member name="Prokka_on_data_90__gff"/>
+        <member name="Prokka_on_data_81__gff"/>
+        <member name="Prokka_on_data_91__gff"/>
+        <member name="Prokka_on_data_60__gff"/>
+        <member name="Prokka_on_data_73__gff"/>
+        <member name="Prokka_on_data_65__gff"/>
+        <member name="Prokka_on_data_42__gff"/>
+        <member name="Prokka_on_data_57__gff"/>
+      </ecotype>
+      <ecotype number="5" size="28">
+        <member name="Prokka_on_data_87__gff"/>
+        <member name="Prokka_on_data_31__gff"/>
+        <member name="Prokka_on_data_37__gff"/>
+        <member name="Prokka_on_data_38__gff"/>
+        <member name="Prokka_on_data_53__gff"/>
+        <member name="Prokka_on_data_85__gff"/>
+        <member name="Prokka_on_data_86__gff"/>
+        <member name="Prokka_on_data_88__gff"/>
+        <member name="Prokka_on_data_79__gff"/>
+        <member name="Prokka_on_data_78__gff"/>
+        <member name="Prokka_on_data_83__gff"/>
+        <member name="Prokka_on_data_66__gff"/>
+        <member name="Prokka_on_data_71__gff"/>
+        <member name="Prokka_on_data_67__gff"/>
+        <member name="Prokka_on_data_68__gff"/>
+        <member name="Prokka_on_data_69__gff"/>
+        <member name="Prokka_on_data_70__gff"/>
+        <member name="Prokka_on_data_74__gff"/>
+        <member name="Prokka_on_data_84__gff"/>
+        <member name="Prokka_on_data_36__gff"/>
+        <member name="Prokka_on_data_47__gff"/>
+        <member name="Prokka_on_data_49__gff"/>
+        <member name="Prokka_on_data_51__gff"/>
+        <member name="Prokka_on_data_58__gff"/>
+        <member name="Prokka_on_data_77__gff"/>
+        <member name="Prokka_on_data_48__gff"/>
+        <member name="Prokka_on_data_50__gff"/>
+        <member name="Prokka_on_data_35__gff"/>
+      </ecotype>
+    </ecotypes>
+  </demarcation>
+</ecosim>
